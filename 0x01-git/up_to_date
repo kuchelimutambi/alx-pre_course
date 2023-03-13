@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "touch up_to_date"
+git pull https://github.com/kuchelimutambi/alx-pre_course.git
